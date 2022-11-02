@@ -1,8 +1,12 @@
 # foreverfarm
 
 Pennsylvania College of Technology
+
 CSC132 Introduction to Gaming & Simuatlion
+
 Digital Game Project
+
+
 
 Joe Hartland, Wendy Ayllon, Catelyn Jones, Josef Baker, Kelson Bennett
 
